@@ -1,0 +1,8 @@
+- NodeJs, Typescript
+- Fastify
+- Prisma
+- Zod
+- Fastify-type-provider-zod
+- dayjs
+- nodemailer (+ createTestAccount, ethereal)
+- Cors (@fastify/cors)
