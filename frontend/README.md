@@ -1,3 +1,5 @@
 - Vite, React, Typescript
 - Tailwind CSS
 - Lucide React (icons)
+- react-router-dom
+- Tailwind Variants
