@@ -1,10 +1,7 @@
 plann.er
 
-
-
 - Headless UI (Acessibilidade)
 - html2canvas
-
 - SOLID (mais sobre, abaixo)
 - Jest (framework de testes JS)
 - SWC
@@ -16,8 +13,6 @@ Deploy:
 
 js-cookie
 jwt-decode
-axios
 
-NestJs
 Jest
 Kafka
