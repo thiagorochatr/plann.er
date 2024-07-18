@@ -63,6 +63,7 @@ export function TripDetailsPage() {
       {isCreateActivityModalOpen && (
         <CreateActivityModal
           closeCreateActivityModal={closeCreateActivityModal}
+          trip={trip}
         />
       )}
 
