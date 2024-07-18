@@ -2,4 +2,7 @@
 - Tailwind CSS
 - Lucide React (icons)
 - react-router-dom
-- Tailwind Variants 
+- Tailwind Variants
+- React Day Picker
+- date-fns
+- Axios
